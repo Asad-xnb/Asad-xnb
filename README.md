@@ -1,10 +1,15 @@
 # Introduction
-- 👋 Hi, I’m Asad Zubair
-- I’m a MERN stack web application developer and founded [digital Bachelor](https://digitalbachelor-6b8d5ee2e0c6.herokuapp.com/).
-- Currently, I'm studying machine learning and statistical learning.
+- 👋 Hi, I'm **Asad Zubair** from Pakistan, currently pursuing a Bachelor's in Computer Science. I’m passionate about coding, technology, and entrepreneurship. My expertise    lies in **MERN stack development**, and I have a deep interest in **machine learning**, **computer vision**, and **IoT**.
+- I’m the co-founder of **Digital Bachelor**, an educational startup offering accessible learning resources for students. I'm also building my own software agency called **CodeDrake** to fund projects aimed at technological advancement in my country.
+
+#🔧 **Tech Stack:**  
+- **Frontend:** HTML, CSS, JavaScript, ReactJS  
+- **Backend:** Node.js, Express.js, MongoDB  
+- **Tools:** Docker, Nginx, Git, DBeaver  
+- **Additional Skills:** SEO, Robotics, Python, and AI
+
 # Contact
 I have multiple E-mail addresses but I actively use "asad.xnb@gmail.com"
-alternate addresses are "asadzubair84@gmail.com" and "itshack0966@gmail.com".
 
 # Portfolio website
-I have a simple portfolio at [asadzubair.me](https://asadzubair.me)
+You can Visit me @ [asadzubair.me](https://www.asadzubair.me)
