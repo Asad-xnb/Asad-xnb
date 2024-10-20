@@ -1,6 +1,6 @@
 # Introduction
 - 👋 Hi, I'm **Asad Zubair** from Pakistan, currently pursuing a Bachelor's in Computer Science. I’m passionate about coding, technology, and entrepreneurship. My expertise    lies in **MERN stack development**, and I have a deep interest in **machine learning**, **computer vision**, and **IoT**.
-- I’m the co-founder of **Digital Bachelor**, an educational startup offering accessible learning resources for students. I'm also building my own software agency called **CodeDrake** to fund projects aimed at technological advancement in my country.
+- I’m the co-founder of **Digital Bachelor**, an educational startup offering accessible learning resources for students. I'm also building my own marketing and software development agency called CodeDrake, aimed at providing innovative software solutions and digital marketing services.
 
 # 🔧 **Tech Stack:**  
 - **Frontend:** HTML, CSS, JavaScript, ReactJS  
